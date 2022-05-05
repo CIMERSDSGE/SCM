@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/CIMERSDSGE/SCM/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository tracks the recent developments in the Synthetic Control Method (SCM) literature. It serves two purposes. First, it is an organized dump of my bookmarks from Twitter, GitHub, YouTube etc. The aim here is to keep track of the SCM updates. The second is to make sense of the different packages from an end-user’s perspective. This part has to do with how to apply these methods in our research work. On the theory side, several really useful notes already exist (see the Resources section).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will keep adding content to this website. It might contain errors or the language might not be precise enough. This probably reflects my own poor understanding of what is going on. So please give feedback! The aim of this repository is to collectively build up notes and a code base that we can all use.
+
+Some thoughts below from my own perspective (these are also subject to change over time):
 
 ### Markdown
 
